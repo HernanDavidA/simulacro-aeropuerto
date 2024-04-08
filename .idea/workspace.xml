@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="234e176c-0e85-42dd-bbd3-85ad6ac005c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/AirplaneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/BookingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/FlightController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/PassengerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/CRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/ConfigDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/AirplaneModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/BookingModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/FlightModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/PassengerModel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ekMMx7vH1m51KJZ1ZRn3KqcYSX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Personal/Downloads/mysql-connector-j-8.3.0.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Personal/Documents/JAVA/airport-simulator/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-5720f15e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Personal\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="234e176c-0e85-42dd-bbd3-85ad6ac005c4" name="Changes" comment="" />
+      <created>1712428399063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712428399063</updated>
+    </task>
+    <servers />
+  </component>
+</project>
